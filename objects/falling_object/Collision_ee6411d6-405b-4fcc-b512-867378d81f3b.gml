@@ -1,0 +1,1 @@
+spawner_object.newPiece = true;
